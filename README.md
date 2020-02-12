@@ -1,5 +1,5 @@
 # Hooks-Todo-React
-An demo todos app using React Hooks
+A demo todos app using React Hooks
 
 ##### Built With
 + HTML5
