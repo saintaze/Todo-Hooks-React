@@ -6,7 +6,7 @@ import Todo from './Todo';
 
 const TodoList = props => {
     return (
-      <Paper elevation={2}>
+      <Paper elevation={1}>
         <List>
           {props.todos.map((t,i)=> (
             <div>
